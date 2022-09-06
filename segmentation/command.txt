@@ -1,0 +1,1 @@
+python train.py configs/deepglobe/mask2former_beit_adapter_large_640_160k_deepglobe_ss.py --gpus 1

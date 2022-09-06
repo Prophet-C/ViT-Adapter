@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+data/
+work_dirs/
+segmentation/ops
+pretrained/
+
 # Distribution / packaging
 .Python
 build/
